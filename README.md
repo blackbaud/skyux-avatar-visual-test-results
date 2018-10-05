@@ -1,0 +1,1 @@
+# skyux-avatar-visual-test-results
